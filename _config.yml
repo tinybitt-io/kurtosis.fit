@@ -1,8 +1,8 @@
 # Setup
 title:               Kurtosis.fit
 tagline:             'Intensity over Consistency'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         'Intensity over Consistency'
+url:                 http://kurtosis.fit
 baseurl:             ''
 paginate:            5
 permalink:           pretty
