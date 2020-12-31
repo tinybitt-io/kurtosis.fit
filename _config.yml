@@ -3,7 +3,7 @@ title:               Kurtosis.fit
 tagline:             'Intensity over Consistency'
 description:         'Intensity over Consistency'
 url:                 
-baseurl:             'https://kurtosis.fit/'
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
