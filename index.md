@@ -5,7 +5,7 @@ title: Home
 ![](public/kurtosis.png)
 
 
-## Central Idea - What had work vs what makes sense
+## Central Idea - What had worked vs what makes sense
 
 we live in a complex system with hard-to-see causal links, and an intricate web of interdependence. 
 
